@@ -14,7 +14,7 @@
 该工具使用Apple Script开发，有两种使用方式，推荐第一种。
 
 1.在Terminal里执行
-```/list.sh```
+```./list.sh```
 
 2.Script Editor
 双击`list`，使用Script Editor运行。
